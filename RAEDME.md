@@ -48,3 +48,11 @@ The Pseudo Dual-Port Wrapper encapsulates the single-port RAM macro and exposes 
                   |   +-------+                       |
                   +-----------------------------------+
 ```
+## Output 
+### Simulation Terminal
+<img width="826" height="180" alt="image" src="https://github.com/user-attachments/assets/2efae86e-7751-433f-9f1f-c08d6c6a8ac5" />
+
+
+### Waveform
+<img width="959" height="245" alt="image" src="https://github.com/user-attachments/assets/24cdc7b1-fbdb-4c36-8c22-8257a124d136" />
+
